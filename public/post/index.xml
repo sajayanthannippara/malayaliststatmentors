@@ -6,10 +6,19 @@
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>magick</title>
+      <link>/2018/11/09/magick/</link>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/09/magick/</guid>
+      <description>library(magick)## Linking to ImageMagick 6.9.9.14## Enabled features: cairo, freetype, fftw, ghostscript, lcms, pango, rsvg, webp## Disabled features: fontconfig, x11library(magrittr)image_read(&amp;quot;https://jeroen.github.io/images/birds.jpg&amp;quot;)image_read(&amp;quot;https://jeroen.github.io/images/birds.jpg&amp;quot;)%&amp;gt;%image_crop(&amp;#39;1200x300+100+1700&amp;#39;)%&amp;gt;%image_ocr()%&amp;gt;%cat()## H Grenveld. del Watherby &amp;amp; 0°## CLIMACTERIS PICUMNUS.## (BROWN TREE CREEPER).</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
