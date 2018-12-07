@@ -9,4 +9,3 @@ tags: []
 
 Automated Dashboard With various Correlaton Visualizations in R.
 For details see <https://datascienceplus.com/automated-dashboard-with-various-correlation-visualizations-in-r/>
-For blogdown details see </pdf/blogdown.pdf>
