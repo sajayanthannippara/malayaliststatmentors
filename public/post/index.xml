@@ -6,10 +6,19 @@
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>flexdashboard</title>
+      <link>/2018/12/07/flexdashboard/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/07/flexdashboard/</guid>
+      <description>Automated Dashboard With various Correlaton Visualizations in R.For details see https://datascienceplus.com/automated-dashboard-with-various-correlation-visualizations-in-r/</description>
+    </item>
     
     <item>
       <title>magick</title>
