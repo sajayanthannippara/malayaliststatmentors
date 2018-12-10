@@ -6,4 +6,5 @@ slug: calicut-university-previous-question-papers
 categories: []
 tags: []
 ---
-Download the question papers [First semester MA Degree Examination November 2018_STATISTICS](/QuestionPapers/firstsem2018-19.pdf)
+ [First semester MA Degree Examination November 2018_STATISTICS](/QuestionPapers/firstsem2018_19.pdf)
+[ANSWERS](/ANSWERS/firstsem2018_19.pdf)
