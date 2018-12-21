@@ -6,27 +6,18 @@
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Integrating R and Telegram</title>
-      <link>/2018/12/10/integrating-r-and-telegram/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <title>CAREERS</title>
+      <link>/2018/12/21/careers/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/12/10/integrating-r-and-telegram/</guid>
-      <description>R - Data Science Heroes Blog .</description>
-    </item>
-    
-    <item>
-      <title>first sem</title>
-      <link>/2018/12/10/first-sem/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/12/10/first-sem/</guid>
-      <description>ffffffffffffffff</description>
+      <guid>/2018/12/21/careers/</guid>
+      <description>Jobs at RBI</description>
     </item>
     
     <item>
@@ -35,25 +26,8 @@
       <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/12/07/calicut-university-previous-question-papers/</guid>
-      <description>First semester MA Degree Examination November 2018_STATISTICSANSWERS</description>
-    </item>
-    
-    <item>
-      <title>flexdashboard</title>
-      <link>/2018/12/07/flexdashboard/</link>
-      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/12/07/flexdashboard/</guid>
-      <description>Automated Dashboard With various Correlaton Visualizations in R.For details see https://datascienceplus.com/automated-dashboard-with-various-correlation-visualizations-in-r/</description>
-    </item>
-    
-    <item>
-      <title>magick</title>
-      <link>/2018/11/09/magick/</link>
-      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/11/09/magick/</guid>
-      <description>library(magick)## Linking to ImageMagick 6.9.9.14## Enabled features: cairo, freetype, fftw, ghostscript, lcms, pango, rsvg, webp## Disabled features: fontconfig, x11library(magrittr)image_read(&amp;quot;https://jeroen.github.io/images/birds.jpg&amp;quot;)image_read(&amp;quot;https://jeroen.github.io/images/birds.jpg&amp;quot;)%&amp;gt;%image_crop(&amp;#39;1200x300+100+1700&amp;#39;)%&amp;gt;%image_ocr()%&amp;gt;%cat()## H Grenveld. del Watherby &amp;amp; 0°## CLIMACTERIS PICUMNUS.## (BROWN TREE CREEPER).</description>
+      <description>First semester MA Degree Examination November 2018_STATISTICS
+Answers</description>
     </item>
     
   </channel>

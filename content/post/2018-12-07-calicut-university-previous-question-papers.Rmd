@@ -7,4 +7,5 @@ categories: []
 tags: []
 ---
  [First semester MA Degree Examination November 2018_STATISTICS](/QuestionPapers/firstsem2018_19.pdf)
-[ANSWERS](/ANSWERS/firstsem2018_19.pdf)
+
+[Answers](/ANSWERS/firstsem2018_19.pdf)
