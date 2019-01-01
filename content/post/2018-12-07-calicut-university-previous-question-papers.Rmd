@@ -6,7 +6,7 @@ slug: calicut-university-previous-question-papers
 categories: []
 tags: []
 ---
-### MA ECONOMICS CALICUT UNIVERSITY-STATISTICS-I SEMESTER
+### MA ECONOMICS -STATISTICS-I SEMESTER
 
 [First semester MA Degree Examination  2018_STATISTICS](/QuestionPapers/firstsem2018_19.pdf)
 
@@ -23,7 +23,7 @@ tags: []
  [First semester MA Degree Examination  2014_STATISTICS](/QuestionPapers/firstsem2014.pdf)
  
  
-### MA ECONOMICS CALICUT UNIVERSITY-STATISTICS-II SEMESTER
+### MA ECONOMICS -STATISTICS-II SEMESTER
 
 
 [Second semester MA Degree Examination  2018_STATISTICS](/QuestionPapers/secondsem2018.pdf)
