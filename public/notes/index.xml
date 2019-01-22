@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on A Hugo website</title>
+    <link>/notes/</link>
+    <description>Recent content in Notes on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Student&#39;s Notes</title>
+      <link>/notes/studnt-s-notes/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/notes/studnt-s-notes/</guid>
+      <description>MA ECONOMICS -STATISTICS-II SEMESTER2017-18module_1
+module_2
+module_3
+module_4
+module_5
+</description>
+    </item>
+    
+  </channel>
+</rss>

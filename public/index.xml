@@ -6,10 +6,24 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Student&#39;s Notes</title>
+      <link>/notes/studnt-s-notes/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/notes/studnt-s-notes/</guid>
+      <description>MA ECONOMICS -STATISTICS-II SEMESTER2017-18module_1
+module_2
+module_3
+module_4
+module_5
+</description>
+    </item>
     
     <item>
       <title>Calicut University Previous Question Papers</title>
