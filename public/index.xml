@@ -6,10 +6,20 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/contact/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Sajayan Thannippara
+Email: t.sajayan@gmail.com</description>
+    </item>
     
     <item>
       <title>Student&#39;s Notes</title>
@@ -17,12 +27,12 @@
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/notes/studnt-s-notes/</guid>
-      <description>MA ECONOMICS -STATISTICS-II SEMESTER2017-18module_1
+      <description> MA ECONOMICS -STATISTICS-II SEMESTER 2017-18 module_1
 module_2
 module_3
 module_4
 module_5
-</description>
+  </description>
     </item>
     
     <item>
@@ -31,13 +41,13 @@ module_5
       <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/12/07/calicut-university-previous-question-papers/</guid>
-      <description>MA ECONOMICS -STATISTICS-I SEMESTERFirst semester MA Degree Examination 2018_STATISTICS
+      <description>MA ECONOMICS -STATISTICS-I SEMESTER First semester MA Degree Examination 2018_STATISTICS
 Answers
 First semester MA Degree Examination 2017_STATISTICS
 First semester MA Degree Examination 2016_STATISTICS
 First semester MA Degree Examination 2015_STATISTICS
 First semester MA Degree Examination 2014_STATISTICS
-MA ECONOMICS -STATISTICS-II SEMESTERSecond semester MA Degree Examination 2018_STATISTICS
+ MA ECONOMICS -STATISTICS-II SEMESTER Second semester MA Degree Examination 2018_STATISTICS
 Second semester MA Degree Examination 2017_STATISTICS
 Second semester MA Degree Examination 2016STATISTICS
 Second semester MA Degree Examination 2015_STATISTICS
@@ -50,7 +60,7 @@ Second semester MA Degree Examination 2013_STATISTICS</description>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>This is a website for college students studying MA Economics at Calicut University.</description>
     </item>
     
   </channel>
