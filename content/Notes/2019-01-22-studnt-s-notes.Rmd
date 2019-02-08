@@ -8,14 +8,31 @@ tags: []
 ---
 ### MA ECONOMICS -STATISTICS-II SEMESTER
 
+[SYLLABUS](/ECO STUDENT NOTES/Syllabus/syllabus.pdf)
+
 #### 2017-18
 
-[module_1](/ECO STUDENT NOTES/2ndSemmodule1.pdf)
+[module_1](/ECO STUDENT NOTES/sem2/2ndSemmodule1.pdf)
 
-[module_2](/ECO STUDENT NOTES/2ndSemmodule2.pdf)
+[module_2](/ECO STUDENT NOTES/sem2/2ndSemmodule2.pdf)
 
-[module_3](/ECO STUDENT NOTES/2ndSemmodule3.pdf)
+[module_3](/ECO STUDENT NOTES/sem2/2ndSemmodule3.pdf)
 
-[module_4](/ECO STUDENT NOTES/2ndSemmodule4.pdf)
+[module_4](/ECO STUDENT NOTES/sem2/2ndSemmodule4.pdf)
 
-[module_5](/ECO STUDENT NOTES/2ndSemmodule5.pdf)
+[module_5](/ECO STUDENT NOTES/sem2/2ndSemmodule5.pdf)
+
+
+### MA ECONOMICS -STATISTICS-I SEMESTER
+
+#### 2017-18
+
+[module_1](/ECO STUDENT NOTES/sem1/module1.pdf)
+
+[module_2](/ECO STUDENT NOTES/sem1/module2.pdf)
+
+[module_3](/ECO STUDENT NOTES/sem1/module3.pdf)
+
+[module_4](/ECO STUDENT NOTES/sem1/module4.pdf)
+
+
