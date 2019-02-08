@@ -6,9 +6,10 @@ slug: studnt-s-notes
 categories: []
 tags: []
 ---
-### MA ECONOMICS -STATISTICS-II SEMESTER
-
 [SYLLABUS](/ECO STUDENT NOTES/Syllabus/syllabus.pdf)
+
+
+### MA ECONOMICS -STATISTICS-II SEMESTER
 
 #### 2017-18
 
