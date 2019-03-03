@@ -23,6 +23,14 @@
   </url>
   
   <url>
+    <loc>/r/</loc>
+  </url>
+  
+  <url>
+    <loc>/data_analysis/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2019-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
