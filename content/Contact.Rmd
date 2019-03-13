@@ -1,5 +1,5 @@
 ---
-title: "CONTACT"
+title: ""
 output: html_document
 ---
 
