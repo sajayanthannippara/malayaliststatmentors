@@ -19,6 +19,18 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "R"
     url = "/R/"
 [[menu.main]]
+    name = "Tutorials"
+    url = "/Tutorials/"
+[[menu.main]]
+    name = "Conferences"
+    url = "/Conferences/"
+[[menu.main]]
+    name = "Jobs"
+    url = "/Jobs/"
+[[menu.main]]
+    name = "Research"
+    url = "/Research/"
+[[menu.main]]
     name = "Contact"
     url = "/Contact/"
 
