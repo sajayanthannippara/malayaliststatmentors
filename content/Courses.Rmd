@@ -4,27 +4,35 @@ author: "sajayan"
 date: "3/18/2019"
 output: html_document
 ---
+**MSc STATISTICS**
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+* [Department of Statistics - University of Calicut
+](https://statistics.uoc.ac.in/)
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+* [Govt. Arts & Science College,Kozhikode](http://www.gasckkd.ac.in/statistics/)
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+* [St.Thomas College (Autonomous), Thrissur](http://stthomas.ac.in/department_info?department=Statistics)
 
-```{r cars}
-summary(cars)
-```
 
-## Including Plots
+* [Government Victoria College Palakkad](http://www.victoriacollege.in/index.php)
 
-You can also embed plots, for example:
+* [Farook College(Autonomous),Kozhikode](https://www.farookcollege.ac.in/department-of-statistics/)
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+**MSc STATISTICS**(Self Financing)
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+* [WMO Arts & Science College MUTTIL WAYANAD](https://wmocollege.ac.in/pg.html)
+
+
+**M.Sc. : Big Data Analytics(Self Financing)**
+
+
+* [St. Joseph's College, Devagiri(Autonomous)](http://www.sjc.ac.in/courses.html#)
+
+
+**M.Sc Agricultural Statistics-3 yrs**
+
+
+* [College of Agriculture, Vellayani](http://www.kau.in/institution/college-agriculture-vellayani)
+
+* [College of Horticulture, Vellanikkara](http://www.kau.in/institution/college-horticulture-vellanikkara)
