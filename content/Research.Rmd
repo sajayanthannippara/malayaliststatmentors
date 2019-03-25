@@ -8,18 +8,14 @@ output: html_document
 * Department of Statistics - Kerala University, Trivandrum
 
 * University College, Trivandrum
-*
-*
-*
-*
 
 * [Department of Statistics - University of Calicut
 ](https://statistics.uoc.ac.in/)
 
-*
+* Govt College Kasargod
 
-*
+* Nirmala College Muvattupuzha, Ernakulam
 
-*
+* Maharaja's College, Ernakulam
 
-*
+* Farook College, Kozhikode(Autonomous)

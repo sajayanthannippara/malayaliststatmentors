@@ -10,7 +10,7 @@ output: html_document
 
 * University College, Trivandrum
 
-* Govt Arts College, Trivandrum
+* Govt Arts College, Thycaud,Trivandrum
 
 * [Department of Statistics - University of Calicut
 ](https://statistics.uoc.ac.in/)
@@ -26,7 +26,15 @@ output: html_document
 * [Farook College(Autonomous),Kozhikode](https://www.farookcollege.ac.in/department-of-statistics/)
 
 * Govt College Manjeswaram, Kasaragod
-*Nehru Arts & Science College, Kanhangad
+
+* Nehru Arts & Science College, Kanhangad
+
+* Nirmala College Muvattupuzha, Ernakulam
+
+* Maharaja's College, Ernakulam
+
+
+
 **MSc STATISTICS**(Self Financing)
 
 * [WMO Arts & Science College MUTTIL WAYANAD](https://wmocollege.ac.in/pg.html)
@@ -35,7 +43,7 @@ output: html_document
 **MSc APPLIED STATISTICS & Data Analytics**
 
 * Department of Statistics- Kerala University, Trivandrum
-(Seats:12; Eligibility:BSc in Statistics/Applied Statistics or BSc Mathematics/Physics/Computer Science  with Statistics at  subsidiary level)
+
 
 **MSc APPLIED STATISTICS**
 
@@ -61,7 +69,8 @@ output: html_document
 
 * Govt College Manjeswaram, Kasaragod
 * Govt College, Kariavattom, Trivandrum
-* Govt College for women, Trivandrum
+* Govt College for women, Vazhuthcaud, Trivandrum
+* Christian College Kattakada
 * Sree Sankara College Kalady
 * KSMDB College, Sasthamkotta
 * Vimala College Thrissur
@@ -74,3 +83,4 @@ output: html_document
 * MA College Kothamangalam
 
 * MSM College, Kayamkulam, Alappuzha
+* Farook College, Kozhikode(Autonomous)
